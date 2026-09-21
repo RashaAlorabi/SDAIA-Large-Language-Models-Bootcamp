@@ -445,18 +445,9 @@ The notebooks in this repository use technologies and libraries such as:
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/SDAIA-LARGE-LANGUAGE-MODELS-BOOTCAMP.git
+git clone https://github.com/RashaAlorabi/SDAIA-Large-Language-Models-Bootcamp.git
 ```
 
-Replace:
-
-```text
-YOUR_USERNAME
-```
-
-with your GitHub username.
-
----
 
 ## 2. Navigate to the Project
 
